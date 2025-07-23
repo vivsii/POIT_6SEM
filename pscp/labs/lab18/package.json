@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "sequelize": "^6.37.7",
+    "tedious": "^18.6.1",
+    "url": "^0.11.4"
+  }
+}
