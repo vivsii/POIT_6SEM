@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB9D74-DD92-4077-B64F-2B9C3AFD692B}|ASPA001\\ASPA001.csproj|c:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\aspa\\aspa001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BB9D74-DD92-4077-B64F-2B9C3AFD692B}|ASPA001\\ASPA001.csproj|solutionrelative:aspa001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB9D74-DD92-4077-B64F-2B9C3AFD692B}|ASPA001\\ASPA001.csproj|c:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\aspa\\aspa001\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2BB9D74-DD92-4077-B64F-2B9C3AFD692B}|ASPA001\\ASPA001.csproj|solutionrelative:aspa001\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB9D74-DD92-4077-B64F-2B9C3AFD692B}|ASPA001\\ASPA001.csproj|c:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\aspa\\aspa001\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2BB9D74-DD92-4077-B64F-2B9C3AFD692B}|ASPA001\\ASPA001.csproj|solutionrelative:aspa001\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\ASPA\\ASPA001\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPA001\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\ASPA\\ASPA001\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPA001\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T18:45:06.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\ASPA\\ASPA001\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPA001\\appsettings.json",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\ASPA\\ASPA001\\appsettings.json",
+              "RelativeToolTip": "ASPA001\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T18:40:54.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\ASPA\\ASPA001\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA001\\Program.cs",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab01\\ASPA\\ASPA001\\Program.cs",
+              "RelativeToolTip": "ASPA001\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:36:56.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

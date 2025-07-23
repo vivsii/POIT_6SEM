@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D517FFF9-10D1-4B79-A47B-C04650019F07}|ASPA003\\ASPA003.csproj|c:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\aspa\\aspa003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D517FFF9-10D1-4B79-A47B-C04650019F07}|ASPA003\\ASPA003.csproj|solutionrelative:aspa003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095E2785-8A44-4FB0-86B9-2B5FA9054C96}|Test_DAL003\\Test_DAL003.csproj|c:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\aspa\\test_dal003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095E2785-8A44-4FB0-86B9-2B5FA9054C96}|Test_DAL003\\Test_DAL003.csproj|solutionrelative:test_dal003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095E2785-8A44-4FB0-86B9-2B5FA9054C96}|Test_DAL003\\Test_DAL003.csproj|c:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\aspa\\test_dal003\\\u0441elebrities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{095E2785-8A44-4FB0-86B9-2B5FA9054C96}|Test_DAL003\\Test_DAL003.csproj|solutionrelative:test_dal003\\\u0441elebrities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF75E4D-CED3-434E-9EE8-C5FD2BF92946}|DAL003\\DAL003.csproj|c:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\aspa\\dal003\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF75E4D-CED3-434E-9EE8-C5FD2BF92946}|DAL003\\DAL003.csproj|solutionrelative:dal003\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF75E4D-CED3-434E-9EE8-C5FD2BF92946}|DAL003\\DAL003.csproj|c:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\aspa\\dal003\\\u0441elebrities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF75E4D-CED3-434E-9EE8-C5FD2BF92946}|DAL003\\DAL003.csproj|solutionrelative:dal003\\\u0441elebrities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0421elebrities.json",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\Test_DAL003\\\u0421elebrities.json",
+              "RelativeDocumentMoniker": "Test_DAL003\\\u0421elebrities.json",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\Test_DAL003\\\u0421elebrities.json",
+              "RelativeToolTip": "Test_DAL003\\\u0421elebrities.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T05:24:22.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u0421elebrities.json",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\DAL003\\\u0421elebrities.json",
+              "RelativeDocumentMoniker": "DAL003\\\u0421elebrities.json",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\DAL003\\\u0421elebrities.json",
+              "RelativeToolTip": "DAL003\\\u0421elebrities.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T05:08:27.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\Test_DAL003\\Program.cs",
+              "RelativeDocumentMoniker": "Test_DAL003\\Program.cs",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\Test_DAL003\\Program.cs",
+              "RelativeToolTip": "Test_DAL003\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:55:38.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\DAL003\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL003\\Class1.cs",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\DAL003\\Class1.cs",
+              "RelativeToolTip": "DAL003\\Class1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:49:25.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\ASPA003\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA003\\Program.cs",
+              "ToolTip": "C:\\\u0443\u043D\u0438\u043A\\\u043F\u0438\u0441\\lab02\\ASPA\\ASPA003\\Program.cs",
+              "RelativeToolTip": "ASPA003\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:01:44.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\уник\\пис\\lab02\\ASPA\\ASPA003\\wwwroot\\Celebrities\\download\\Berners-Lee.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\download\\Berners-Lee.jpg"
+    },
+    {
+      "Id": "C:\\уник\\пис\\lab02\\ASPA\\ASPA003\\wwwroot\\Celebrities\\download\\Chomsky.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\download\\Chomsky.jpg"
+    },
+    {
+      "Id": "C:\\уник\\пис\\lab02\\ASPA\\ASPA003\\wwwroot\\Celebrities\\download\\Codd.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\download\\Codd.jpg"
+    },
+    {
+      "Id": "C:\\уник\\пис\\lab02\\ASPA\\ASPA003\\wwwroot\\Celebrities\\download\\Dijkstra.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\download\\Dijkstra.jpg"
+    },
+    {
+      "Id": "C:\\уник\\пис\\lab02\\ASPA\\ASPA003\\wwwroot\\Celebrities\\download\\Knuth.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\download\\Knuth.jpg"
+    },
+    {
+      "Id": "C:\\уник\\пис\\lab02\\ASPA\\ASPA003\\wwwroot\\Celebrities\\download\\Linus.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\download\\Linus.jpg"
+    },
+    {
+      "Id": "C:\\уник\\пис\\lab02\\ASPA\\ASPA003\\wwwroot\\Celebrities\\download\\Neumann.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\download\\Neumann.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASPA003.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASPA003.props",
+      "PackagePath": "build\\ASPA003.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPA003.props",
+      "PackagePath": "buildMultiTargeting\\ASPA003.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASPA003.props",
+      "PackagePath": "buildTransitive\\ASPA003.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\bin\Debug\net8.0\DAL003.deps.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\bin\Debug\net8.0\DAL003.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\bin\Debug\net8.0\DAL003.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\obj\Debug\net8.0\DAL003.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\obj\Debug\net8.0\DAL003.AssemblyInfoInputs.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\obj\Debug\net8.0\DAL003.AssemblyInfo.cs
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\obj\Debug\net8.0\DAL003.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\obj\Debug\net8.0\DAL003.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\obj\Debug\net8.0\refint\DAL003.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\obj\Debug\net8.0\DAL003.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\DAL003\obj\Debug\net8.0\ref\DAL003.dll

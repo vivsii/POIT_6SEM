@@ -1,0 +1,66 @@
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\appsettings.Development.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\appsettings.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.staticwebassets.endpoints.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.exe
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.deps.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.runtimeconfig.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\DAL003.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\DAL003.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.csproj.AssemblyReference.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.AssemblyInfoInputs.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.AssemblyInfo.cs
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.MvcApplicationPartsAssemblyInfo.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\scopedcss\bundle\ASPA003.styles.css
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets.build.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets.development.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.ASPA003.Microsoft.AspNetCore.StaticWebAssets.props
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.ASPA003.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPA003.props
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPA003.props
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPA003.props
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets.pack.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.csproj.Up2Date
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\refint\ASPA003.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.genruntimeconfig.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\obj\Debug\net8.0\ref\ASPA003.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\Celebrities\Celebrities.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.staticwebassets.runtime.json
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\appsettings.Development.json
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\appsettings.json
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\Celebrities\Celebrities.json
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.staticwebassets.runtime.json
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.exe
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.deps.json
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.runtimeconfig.json
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.dll
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\ASPA003.pdb
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\DAL003.dll
+C:\уник\пис\lab02\ASPA\ASPA003\bin\Debug\net8.0\DAL003.pdb
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.csproj.AssemblyReference.cache
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.GeneratedMSBuildEditorConfig.editorconfig
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.AssemblyInfoInputs.cache
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.AssemblyInfo.cs
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.csproj.CoreCompileInputs.cache
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.MvcApplicationPartsAssemblyInfo.cache
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets.build.json
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets.development.json
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.ASPA003.Microsoft.AspNetCore.StaticWebAssets.props
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPA003.props
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPA003.props
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPA003.props
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\staticwebassets.pack.json
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\scopedcss\bundle\ASPA003.styles.css
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.csproj.Up2Date
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.dll
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\refint\ASPA003.dll
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.pdb
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ASPA003.genruntimeconfig.cache
+C:\уник\пис\lab02\ASPA\ASPA003\obj\Debug\net8.0\ref\ASPA003.dll

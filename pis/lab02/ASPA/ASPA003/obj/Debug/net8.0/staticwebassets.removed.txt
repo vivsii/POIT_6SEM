@@ -1,0 +1,7 @@
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\wwwroot\Berners-Lee.jpg
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\wwwroot\Chomsky.jpg
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\wwwroot\Codd.jpg
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\wwwroot\Dijkstra.jpg
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\wwwroot\Knuth.jpg
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\wwwroot\Linus.jpg
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ПИС\2\ASPA\ASPA003\wwwroot\Neumann.jpg

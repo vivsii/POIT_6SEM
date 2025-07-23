@@ -1,0 +1,7 @@
+wwwroot\Celebrities\download\Berners-Lee.jpg
+wwwroot\Celebrities\download\Chomsky.jpg
+wwwroot\Celebrities\download\Codd.jpg
+wwwroot\Celebrities\download\Dijkstra.jpg
+wwwroot\Celebrities\download\Knuth.jpg
+wwwroot\Celebrities\download\Linus.jpg
+wwwroot\Celebrities\download\Neumann.jpg

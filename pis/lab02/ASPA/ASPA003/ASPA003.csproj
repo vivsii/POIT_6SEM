@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\Photo\**" />
+    <Content Remove="wwwroot\Photo\**" />
+    <EmbeddedResource Remove="wwwroot\Photo\**" />
+    <None Remove="wwwroot\Photo\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DAL003">
+      <HintPath>..\DAL003\bin\Debug\net8.0\DAL003.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
