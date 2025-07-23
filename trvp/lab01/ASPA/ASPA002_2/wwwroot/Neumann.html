@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>Calc</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <h1>Calc</h1>
+    <p>Sum(7, 3): <span id="sum" class="red"></span></p>
+    <p>Sub(7, 3): <span id="sub" class="green"></span></p>
+    <p>Mul(7, 3): <span id="mul" class="magenta"></span></p>
+    <p>Div(7, 3): <span id="div" class="blue"></span></p>
+
+    <img src="/Picture/Neumann.png" alt="Джон фон Нейман">
+
+    <script>
+        const sum = (a, b) => a + b;
+        const sub = (a, b) => a - b;
+        const mul = (a, b) => a * b;
+        const div = (a, b) => (b !== 0 ? (a / b) : 'Ошибка');
+    
+        document.getElementById("sum").innerHTML = sum(7, 3);
+        document.getElementById("sub").innerHTML = sub(7, 3);
+        document.getElementById("mul").innerHTML = mul(7, 3);
+        document.getElementById("div").innerHTML = div(7, 3).toFixed(2);
+    </script>
+</body>
+</html>

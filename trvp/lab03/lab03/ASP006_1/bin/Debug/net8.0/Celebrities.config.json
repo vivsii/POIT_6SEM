@@ -1,0 +1,6 @@
+{
+  "Celebrities": {
+    "PhotosFolder": "C:\\уник\\трвп\\lab03\\lab03\\Celebrities",
+    "ConnectionString": "Data source=localhost\\SQLEXPRESS; Initial Catalog=LES01; TrustServerCertificate=True; User Id=sa; Password=1111"
+  }
+}

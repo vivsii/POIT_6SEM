@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Celebrities Gallery</title>
+    <style>
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .celebrity-card {
+            width: 200px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+
+            .celebrity-card:hover {
+                transform: scale(1.05);
+            }
+
+        .events-container {
+            margin-top: 20px;
+            padding: 20px;
+            border-top: 2px solid #ccc;
+        }
+
+        .event-item {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f5f5f5;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Celebrities Gallery</h1>
+    <div class="gallery" id="gallery"></div>
+    <div class="events-container" id="events"></div>
+
+    <script>
+        async function loadCelebrities() {
+            try {
+                const response = await fetch('/api/Celebrities');
+                const celebrities = await response.json();
+
+                const gallery = document.getElementById('gallery');
+                celebrities.forEach(celebrity => {
+                    const card = document.createElement('div');
+                    card.className = 'celebrity-card';
+                    card.innerHTML = `
+                            <img src="/api/Celebrities/photo/${celebrity.reqPhotoPath}"
+                                 alt="${celebrity.fullName}"
+                                 style="width: 100%; height: auto;">
+                            <h3>${celebrity.fullName}</h3>
+                            <p>Nationality: ${celebrity.nationality}</p>
+                        `;
+                    card.addEventListener('click', () => loadEvents(celebrity.id));
+                    gallery.appendChild(card);
+                });
+            } catch (error) {
+                console.error('Error loading celebrities:', error);
+            }
+        }
+
+        async function loadEvents(celebrityId) {
+            try {
+                const response = await fetch(`/api/Lifeevents/Celebrities/${celebrityId}`);
+                const events = await response.json();
+                
+                const eventsContainer = document.getElementById('events');
+                eventsContainer.innerHTML = '<h2>Life Events</h2>';
+
+                events.forEach(event => {
+                    const eventElement = document.createElement('div');
+                    eventElement.className = 'event-item';
+                    eventElement.innerHTML = `
+                            <p><strong>Date:</strong> ${new Date(event.date).toLocaleDateString()}</p>
+                            <p>${event.description}</p>
+                        `;
+                    eventsContainer.appendChild(eventElement);
+                });
+            } catch (error) {
+                console.error('Error loading events:', error);
+            }
+        }
+
+        window.onload = loadCelebrities;
+    </script>
+</body>
+</html>

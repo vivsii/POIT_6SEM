@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "IIVRIDyohNaifKPSi0FP4SrvXS4nZfxx3wBdjbGpFhw=",
+  "Source": "ASP006_1",
+  "BasePath": "_content/ASP006_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP006_1\\wwwroot",
+      "Source": "ASP006_1",
+      "ContentRoot": "C:\\уник\\трвп\\lab03\\lab03\\ASP006_1\\wwwroot\\",
+      "BasePath": "_content/ASP006_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\уник\\трвп\\lab03\\lab03\\ASP006_1\\wwwroot\\index.html",
+      "SourceId": "ASP006_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\уник\\трвп\\lab03\\lab03\\ASP006_1\\wwwroot\\",
+      "BasePath": "_content/ASP006_1",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i6hv5ieday",
+      "Integrity": "ujV0C1ehYwJuNJK8e2wsg3ySIuQ9emeCDoa7OSrQekY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\уник\\трвп\\lab03\\lab03\\ASP006_1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ujV0C1ehYwJuNJK8e2wsg3ySIuQ9emeCDoa7OSrQekY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 09:23:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ujV0C1ehYwJuNJK8e2wsg3ySIuQ9emeCDoa7OSrQekY="
+        }
+      ]
+    },
+    {
+      "Route": "index.i6hv5ieday.html",
+      "AssetFile": "C:\\уник\\трвп\\lab03\\lab03\\ASP006_1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ujV0C1ehYwJuNJK8e2wsg3ySIuQ9emeCDoa7OSrQekY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 09:23:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6hv5ieday"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ujV0C1ehYwJuNJK8e2wsg3ySIuQ9emeCDoa7OSrQekY="
+        }
+      ]
+    }
+  ]
+}

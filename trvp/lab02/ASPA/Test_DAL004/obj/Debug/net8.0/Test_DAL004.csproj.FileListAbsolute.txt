@@ -1,0 +1,36 @@
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.exe
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.deps.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.runtimeconfig.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\bin\Debug\net8.0\DAL004.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\bin\Debug\net8.0\DAL004.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.csproj.AssemblyReference.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.AssemblyInfoInputs.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.AssemblyInfo.cs
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL.133A6DDD.Up2Date
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\refint\Test_DAL004.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.genruntimeconfig.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\Test_DAL004\obj\Debug\net8.0\ref\Test_DAL004.dll
+C:\уник\трвп\lab02\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.exe
+C:\уник\трвп\lab02\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.deps.json
+C:\уник\трвп\lab02\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.runtimeconfig.json
+C:\уник\трвп\lab02\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.dll
+C:\уник\трвп\lab02\ASPA\Test_DAL004\bin\Debug\net8.0\Test_DAL004.pdb
+C:\уник\трвп\lab02\ASPA\Test_DAL004\bin\Debug\net8.0\DAL004.dll
+C:\уник\трвп\lab02\ASPA\Test_DAL004\bin\Debug\net8.0\DAL004.pdb
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.csproj.AssemblyReference.cache
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.GeneratedMSBuildEditorConfig.editorconfig
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.AssemblyInfoInputs.cache
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.AssemblyInfo.cs
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.csproj.CoreCompileInputs.cache
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL.133A6DDD.Up2Date
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.dll
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\refint\Test_DAL004.dll
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.pdb
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\Test_DAL004.genruntimeconfig.cache
+C:\уник\трвп\lab02\ASPA\Test_DAL004\obj\Debug\net8.0\ref\Test_DAL004.dll

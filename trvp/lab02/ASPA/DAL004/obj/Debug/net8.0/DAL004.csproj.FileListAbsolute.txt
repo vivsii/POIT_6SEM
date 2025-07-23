@@ -1,0 +1,33 @@
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\bin\Debug\net8.0\DAL004.deps.json
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\bin\Debug\net8.0\DAL004.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\bin\Debug\net8.0\DAL004.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\obj\Debug\net8.0\DAL004.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfoInputs.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfo.cs
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\obj\Debug\net8.0\DAL004.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\obj\Debug\net8.0\DAL004.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\obj\Debug\net8.0\refint\DAL004.dll
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\obj\Debug\net8.0\DAL004.pdb
+D:\УЧЁБА\ЛАБОРАТОРНЫЕ\6 сем\ТРВП\2\ASPA\DAL004\obj\Debug\net8.0\ref\DAL004.dll
+C:\уник\трвп\lab2\ASPA\DAL004\bin\Debug\net8.0\DAL004.deps.json
+C:\уник\трвп\lab2\ASPA\DAL004\bin\Debug\net8.0\DAL004.dll
+C:\уник\трвп\lab2\ASPA\DAL004\bin\Debug\net8.0\DAL004.pdb
+C:\уник\трвп\lab2\ASPA\DAL004\obj\Debug\net8.0\DAL004.GeneratedMSBuildEditorConfig.editorconfig
+C:\уник\трвп\lab2\ASPA\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfoInputs.cache
+C:\уник\трвп\lab2\ASPA\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfo.cs
+C:\уник\трвп\lab2\ASPA\DAL004\obj\Debug\net8.0\DAL004.csproj.CoreCompileInputs.cache
+C:\уник\трвп\lab2\ASPA\DAL004\obj\Debug\net8.0\DAL004.dll
+C:\уник\трвп\lab2\ASPA\DAL004\obj\Debug\net8.0\refint\DAL004.dll
+C:\уник\трвп\lab2\ASPA\DAL004\obj\Debug\net8.0\DAL004.pdb
+C:\уник\трвп\lab2\ASPA\DAL004\obj\Debug\net8.0\ref\DAL004.dll
+C:\уник\трвп\lab02\ASPA\DAL004\bin\Debug\net8.0\DAL004.deps.json
+C:\уник\трвп\lab02\ASPA\DAL004\bin\Debug\net8.0\DAL004.dll
+C:\уник\трвп\lab02\ASPA\DAL004\bin\Debug\net8.0\DAL004.pdb
+C:\уник\трвп\lab02\ASPA\DAL004\obj\Debug\net8.0\DAL004.GeneratedMSBuildEditorConfig.editorconfig
+C:\уник\трвп\lab02\ASPA\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfoInputs.cache
+C:\уник\трвп\lab02\ASPA\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfo.cs
+C:\уник\трвп\lab02\ASPA\DAL004\obj\Debug\net8.0\DAL004.csproj.CoreCompileInputs.cache
+C:\уник\трвп\lab02\ASPA\DAL004\obj\Debug\net8.0\DAL004.dll
+C:\уник\трвп\lab02\ASPA\DAL004\obj\Debug\net8.0\refint\DAL004.dll
+C:\уник\трвп\lab02\ASPA\DAL004\obj\Debug\net8.0\DAL004.pdb
+C:\уник\трвп\lab02\ASPA\DAL004\obj\Debug\net8.0\ref\DAL004.dll

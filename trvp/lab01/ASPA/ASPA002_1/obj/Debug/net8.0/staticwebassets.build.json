@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "cfrD7jKkeFvEWPPNMP7UwmD3rsJVUspQ1U/mtxsgOLc=",
+  "Source": "ASPA002_1",
+  "BasePath": "_content/ASPA002_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPA002_1\\wwwroot",
+      "Source": "ASPA002_1",
+      "ContentRoot": "C:\\уник\\трвп\\lab01\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\уник\\трвп\\lab01\\ASPA\\ASPA002_1\\wwwroot\\css\\index.css",
+      "SourceId": "ASPA002_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\уник\\трвп\\lab01\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\уник\\трвп\\lab01\\ASPA\\ASPA002_1\\wwwroot\\index.html",
+      "SourceId": "ASPA002_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\уник\\трвп\\lab01\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\уник\\трвп\\lab01\\ASPA\\ASPA002_1\\wwwroot\\jpg\\Neumann.png",
+      "SourceId": "ASPA002_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\уник\\трвп\\lab01\\ASPA\\ASPA002_1\\wwwroot\\",
+      "BasePath": "_content/ASPA002_1",
+      "RelativePath": "jpg/Neumann.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jpg\\Neumann.png"
+    }
+  ]
+}
